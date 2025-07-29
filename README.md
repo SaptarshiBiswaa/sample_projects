@@ -5,7 +5,7 @@ You can download the CV from [here](https://github.com/user-attachments/files/18
 
 # Sample codes:
 
-This folder contains 4 jupyter notebooks and external links containing projects to exemplify my skills related to $Data$ $analysis$, $Data$ $science$ and $Quantitative$ $analysis$. Following are their hyperlinks and brief description.
+This folder contains 4 jupyter notebooks and external links containing projects to exemplify my skills related to $Data$ and $Quantitative$ $analysis$. Following are their hyperlinks and brief description.
 
 1. [Google data analytics capstone project](https://github.com/SaptarshiBiswaa/google-data-analytics-capstone-project-1) ([certificate](https://www.coursera.org/account/accomplishments/verify/ORHFBHSEKEV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 
